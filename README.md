@@ -1,6 +1,6 @@
 # Lasallian PALs — Vercel deployment package
 
-This folder contains the latest website, including the black hero, white/light-green hero text, and gray content sections. The original Sites project is unchanged.
+This folder contains the latest website, including a flower-free black hero, white/light-green headline, green introductory copy and university/SSC label, and gray content sections. The original Sites project is unchanged.
 
 ## Contents
 
@@ -24,7 +24,7 @@ Run `pnpm install`, then `pnpm dev`. Build with `pnpm build`.
 
 ## External assets
 
-The hero video is loaded from the original CloudFront URL in `src/main.tsx`; it is not bundled locally. Manrope and DM Sans load from Google Fonts. Both require network access. The SSC logo and social image are included in `public/`.
+The floral hero video has been removed. Manrope and DM Sans load from Google Fonts and require network access. The SSC logo and social image are included in `public/`.
 
 After deployment, replace the two `/og.png` social-image URLs in `index.html` with your full production URL (for example, `https://your-domain.vercel.app/og.png`) for reliable social previews.
 

@@ -10,3 +10,5 @@ h1,h2,h3{font-family:'Manrope',sans-serif;font-style:normal}h1{font-size:clamp(4
 .hero>video{filter:saturate(.85) contrast(1.22)}.shade{background:linear-gradient(180deg,rgba(237,237,245,.82) 0%,rgba(237,237,245,.16) 38%,rgba(237,237,245,.08) 72%,#ededf5 100%)}.hero-copy h1{text-shadow:0 2px 18px rgba(237,237,245,.85),0 0 40px rgba(237,237,245,.5)}.hero-copy p{color:#193f2c;text-shadow:0 1px 8px rgba(255,255,255,.95),0 0 18px rgba(237,237,245,.9)}
 /* Black hero; only the bottom edge blends into the gray content section. */
 .hero{background:#000}.shade{background:linear-gradient(180deg,rgba(0,0,0,.35) 0%,rgba(0,0,0,.18) 65%,rgba(0,0,0,.2) 78%,#ededf5 100%)}.hero-copy h1{color:#fff;text-shadow:0 2px 16px rgba(0,0,0,.4)}.hero-copy h1 em{color:#c3dca6}.hero-copy p,.hero-copy>.eyebrow{color:#fff;text-shadow:0 1px 8px rgba(0,0,0,.5)}.hero-copy .sub{color:#fff}.hero nav.liquid-glass{background:rgba(237,237,245,.95)}
+/* Flower-free hero and green introductory copy. */
+.hero-copy p,.hero-copy>.eyebrow{color:#8ed9a5;text-shadow:none}

@@ -1,6 +1,6 @@
 # Lasallian PALs — Vercel deployment package
 
-This folder contains the latest website, including the complete original hero video, white/light-green headline, green introductory copy and university/SSC label, and gray content sections. The original Sites project is unchanged.
+This folder contains the latest website, including the complete original hero video, white/light-green headline, white introductory copy, green university/SSC label, and gray content sections. The original Sites project is unchanged.
 
 ## Contents
 
